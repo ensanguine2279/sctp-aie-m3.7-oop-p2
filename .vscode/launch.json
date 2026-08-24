@@ -1,0 +1,34 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ElectricCar",
+      "request": "launch",
+      "mainClass": "sctp.aie.m3.l7.ElectricCar",
+      "projectName": "ai-3.7-oop-p2-main_cef7e506"
+    },
+    {
+      "type": "java",
+      "name": "Car",
+      "request": "launch",
+      "mainClass": "sctp.aie.m3.l7.Car",
+      "projectName": "ai-3.7-oop-p2-main_cef7e506"
+    },
+    {
+      "type": "java",
+      "name": "MobilePhone",
+      "request": "launch",
+      "mainClass": "sctp.aie.m3.l7.MobilePhone",
+      "projectName": "ai-3.7-oop-p2-main_cef7e506"
+    },
+    {
+      "type": "java",
+      "name": "Run CorporateCustomer",
+      "request": "launch",
+      "mainClass": "sctp.aie.m3.l7.CorporateCustomer",
+      "projectName": "ai-3.7-oop-p2-main_cef7e506",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
